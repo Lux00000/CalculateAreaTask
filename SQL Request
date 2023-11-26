@@ -1,3 +1,4 @@
+// у меня очень мало опыта работы с BD. На сколько я понимаю, это примерно так
 SELECT 
     P.Name AS ProductName,
     C.Name AS CategoryName
